@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Amol Kangane</h1>
-<h3 align="center">Azure Develper, .net core, Devps</h3>
+<h3 align="center">Azure Develper, .net core, DevOps</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/76Pz.gif">
 
 - 🔭 I’m currently working With **Capgemini**
